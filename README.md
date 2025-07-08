@@ -15,10 +15,7 @@ Aspiring Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 ### 💻 I Code In
 
-### 💻 I Code In
-
 <p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/python.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -36,12 +33,15 @@ Aspiring Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 ### 🛠️ Tools I Use
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/postman.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="40" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img height="40" src="https://img.icons8.com/color/48/null/netlify.png"/>
+<p>
+  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <br/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/postman.png"/> <br/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/> <br/>
+  <img height="40" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> <br/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/> <br/>
+  <img height="40" src="https://img.icons8.com/color/48/null/netlify.png"/> <br/>
+</p>
+
 
 ---
 
