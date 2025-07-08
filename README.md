@@ -1,81 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sukant</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Passionate Coder | Backend & Frontend Enthusiast</h3>
+## Hi there 👋 It's me Sukant
 
-<p align="center">
-  <img src="https://github.com/sukant-git/sukant-git/blob/main/assets/dev-illustration.png" width="400"/>
-</p>
+Aspiring Full-Stack Developer | MERN Stack Enthusiast | Problem Solver  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently pursuing **B.Tech in Information Technology**
-- 🌱 Currently learning **React**, **TypeScript**
-- 🧠 Skilled in full-stack development using **MERN** & **MySQL**
-- ⚡ Fun fact: I debug more than I code – but that’s where the magic happens!
-- 📫 Reach me on:  
-  [LinkedIn](https://www.linkedin.com/in/sukant2004/) |  [Portfolio](https://sukant-k.web.app/)
+- 🔭 Here's my [portfolio](https://sukant-k.web.app/)  
+- 🌱 Currently learning **React**, **TypeScript**, and contributing to open source  
+- 🛠 Skilled in **MERN Stack**, **MySQL**, and building full-stack web apps  
+- ⚡ Fun fact: I debug more than I code – but that’s where the real learning begins!
+- 📫 Connect with me:  
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sukant2004/)  
+  [<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white" />](https://sukant-k.web.app/)
 
 ---
 
-### 🧠 I Code In
+### 💻 I Code In
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/express.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
 
 ---
 
 ### 🛠️ Tools I Use
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/postman.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img height="40" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img height="40" src="https://img.icons8.com/color/48/null/netlify.png"/>
+
+---
+
+### 💻 Workspace
+
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukant-git&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukant-git&theme=tokyonight" />
-</p>
+![Sukant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukant-git&theme=tokyonight&show_icons=true&hide_title=true)
 
 ---
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukant-git&theme=github-dark)
+[![Sukant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sukant-git&bg_color=000000&color=00ff99&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🚀 Featured Projects
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sukant-git&repo=polished-mern-folio)](https://github.com/sukant-git/polished-mern-folio)
 
----
-
-### 🤝 Let's Connect
-
-- 🌐 Portfolio: [sukant-k.web.app](https://sukant-k.web.app/)
-- 💼 LinkedIn: [linkedin.com/in/sukant2004/](https://www.linkedin.com/in/sukant2004/)
-
----
-
-### 🖼️ Bonus Illustration
-
-<p align="center">
-  <img src="https://github.com/sukant-git/sukant-git/blob/main/assets/coding-dev.png" width="400"/>
-</p>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sukant-git&repo=polished-mern-folio&theme=tokyonight)](https://github.com/sukant-git/polished-mern-folio)
