@@ -44,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukant&show_icons=true&theme=tokyonight" alt="Sukant's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukant-git&show_icons=true&theme=tokyonight" alt="Sukant's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukant&theme=tokyonight" alt="Sukant's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukant-git&theme=tokyonight" alt="Sukant's GitHub Streak"/>
 </p>
 
 ---
