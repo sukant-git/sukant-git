@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sukant </h1>
+<h1 align="center">Hi 👋, I'm Sukant</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate Coder | Backend & Frontend Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github.com/sukant2004/sukant2004/blob/main/assets/dev-illustration.png" width="400"/>
+</p>
 
 ---
 
@@ -44,9 +48,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukant-git&show_icons=true&theme=tokyonight" alt="Sukant's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukant-git&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukant-git&theme=tokyonight" alt="Sukant's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukant-git&theme=tokyonight" />
 </p>
 
 ---
@@ -57,17 +61,21 @@
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-[![Your Project Title](https://github-readme-stats.vercel.app/api/pin/?username=sukant&repo=your-repo)](https://github.com/sukant/your-repo)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sukant-git&repo=polished-mern-folio)](https://github.com/sukant-git/polished-mern-folio)
 
 ---
 
-### 📫 Let’s Connect
+### 🤝 Let's Connect
 
 - 🌐 Portfolio: [sukant-k.web.app](https://sukant-k.web.app/)
 - 💼 LinkedIn: [linkedin.com/in/sukant2004/](https://www.linkedin.com/in/sukant2004/)
 
-
 ---
 
+### 🖼️ Bonus Illustration
+
+<p align="center">
+  <img src="https://github.com/sukant2004/sukant2004/blob/main/assets/coding-dev.png" width="400"/>
+</p>
