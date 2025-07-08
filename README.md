@@ -39,7 +39,7 @@ Aspiring Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
   <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img height="40" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
   <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img height="40" src="https://img.icons8.com/color/48/null/netlify.png"/>
+   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 
