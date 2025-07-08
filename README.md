@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Passionate Coder | Backend & Frontend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/sukant2004/sukant2004/blob/main/assets/dev-illustration.png" width="400"/>
+  <img src="https://github.com/sukant-git/sukant-git/blob/main/assets/dev-illustration.png" width="400"/>
 </p>
 
 ---
@@ -77,5 +77,5 @@
 ### 🖼️ Bonus Illustration
 
 <p align="center">
-  <img src="https://github.com/sukant2004/sukant2004/blob/main/assets/coding-dev.png" width="400"/>
+  <img src="https://github.com/sukant-git/sukant-git/blob/main/assets/coding-dev.png" width="400"/>
 </p>
