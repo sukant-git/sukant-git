@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Check out my [portfolio](https://sukant-dev.web.app/)
+- 🔭 Check out my [portfolio](https://sukant-k.web.app/)
 - 🌱 Currently learning **React**, **TypeScript**, and contributing to open source
 - 🛠️ Skilled in **MERN Stack**, **MySQL**, building full-stack web apps
 - ⚡ Fun fact: I debug more than I code – but that’s where the real learning begins!
