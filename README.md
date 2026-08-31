@@ -9,7 +9,7 @@ Aspiring Full-Stack Developer • Full Stack Python Developer • AI Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://sukant-k.web.app/">
+  <a href="https://sukant-io.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
